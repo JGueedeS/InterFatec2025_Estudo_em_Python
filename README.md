@@ -1,6 +1,6 @@
 <h1 align="center">InterFatec 2025 - Estudo em Python</h1>
 
-<p>Este repositório contém meus estudos, anotações e desafios resolvidos com a linguagem Python, como parte da minha preparação para a competição **InterFatec 2025**.</p>
+<p>Este repositório contém meus estudos, anotações e desafios resolvidos com a linguagem Python, como parte da minha preparação para a competição <strong>InterFatec 2025</strong>.</p>
 <h2>Conteúdo</h2>
 <ul>
   <li>Lógica de programação.</li>
