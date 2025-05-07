@@ -1,0 +1,5 @@
+numero = (input("Informe um número: "))
+print("A unidade do seu numero é {}".format(numero[0:1]))
+print("A dezena do seu numero é {}".format(numero[1:2]))
+print("A centena do seu numero é {}".format(numero[2:3]))
+print("O milhar do seu numero é {}".format(numero[3:4]))
